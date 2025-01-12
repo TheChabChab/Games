@@ -1,0 +1,19 @@
+.grid{
+    border: solid 1px black;
+    width: 569px;
+    height: 569px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid div{
+    border:1px solid black;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+.P1{
+    background-color: lightblue;
+}
+.P2{
+    background-color: lightgreen;
+}
